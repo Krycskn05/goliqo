@@ -1,0 +1,1 @@
+durum=basarili-guncellendi calisma=39762623530 commit=e50633c6a9e3cf1b9e9e53c3649c3b30198948f3 tarih=2026-10-22 11:06

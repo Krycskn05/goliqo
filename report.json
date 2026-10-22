@@ -1,0 +1,278 @@
+{
+ "started": "2026-10-22 10:59 UTC",
+ "settings": "supertonic3-de-speed0.92-steps10-v1",
+ "texts": 3145,
+ "voices": {
+  "F1": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 34.4,
+   "median_pitch_hz": 164.6,
+   "asr": [
+    {
+     "text": "die Kannen",
+     "heard": "Die Kann",
+     "score": 0.889
+    },
+    {
+     "text": "der Tafelschwamm",
+     "heard": "der Tafelschwamm.",
+     "score": 1.0
+    },
+    {
+     "text": "die Packung",
+     "heard": "Die Packung.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 0.963,
+   "available": 3145
+  },
+  "F2": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 33.6,
+   "median_pitch_hz": 184.5,
+   "asr": [
+    {
+     "text": "die Wand",
+     "heard": "Die Wand.",
+     "score": 1.0
+    },
+    {
+     "text": "der Mülleimer",
+     "heard": "Der Mülleimer.",
+     "score": 1.0
+    },
+    {
+     "text": "der Saft",
+     "heard": "Der Saft.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 1.0,
+   "available": 3145
+  },
+  "F3": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 34.3,
+   "median_pitch_hz": 157.5,
+   "asr": [
+    {
+     "text": "die Zuckerwürfel",
+     "heard": "die Zuckerwürfel",
+     "score": 1.0
+    },
+    {
+     "text": "die Saucieren",
+     "heard": "die saussieren.",
+     "score": 0.889
+    },
+    {
+     "text": "der Stiftebecher",
+     "heard": "der Stiftebecher.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 0.963,
+   "available": 3145
+  },
+  "F4": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 33.1,
+   "median_pitch_hz": 175.7,
+   "asr": [
+    {
+     "text": "die Mülleimer",
+     "heard": "Die Mülleima.",
+     "score": 0.88
+    },
+    {
+     "text": "die Stiftebecher",
+     "heard": "die Stiftebecher.",
+     "score": 1.0
+    },
+    {
+     "text": "der Mülleimer",
+     "heard": "Der Mülleimer.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 0.96,
+   "available": 3145
+  },
+  "F5": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 33.3,
+   "median_pitch_hz": 155.3,
+   "asr": [
+    {
+     "text": "die Sauciere",
+     "heard": "Die Sausiere.",
+     "score": 0.917
+    },
+    {
+     "text": "die Fischkonserve",
+     "heard": "die Fischkonserve.",
+     "score": 1.0
+    },
+    {
+     "text": "der Mülleimer",
+     "heard": "Der Mülleimer.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 0.972,
+   "available": 3145
+  },
+  "M1": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 33.9,
+   "median_pitch_hz": 96.1,
+   "asr": [
+    {
+     "text": "der Saft",
+     "heard": "der Saft",
+     "score": 1.0
+    },
+    {
+     "text": "die Packungen",
+     "heard": "Die Packungen.",
+     "score": 1.0
+    },
+    {
+     "text": "die Fischkonserven",
+     "heard": "die Fischkonserven",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 1.0,
+   "available": 3145
+  },
+  "M2": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 33.4,
+   "median_pitch_hz": 92.9,
+   "asr": [
+    {
+     "text": "der Saft",
+     "heard": "Der Saft.",
+     "score": 1.0
+    },
+    {
+     "text": "die Saucieren",
+     "heard": "dies ausziehen.",
+     "score": 0.741
+    },
+    {
+     "text": "die Packungen",
+     "heard": "Die Packungen.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 0.914,
+   "available": 3145
+  },
+  "M3": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 31.4,
+   "median_pitch_hz": 88.4,
+   "asr": [
+    {
+     "text": "der Mülleimer",
+     "heard": "der Mülleimer.",
+     "score": 1.0
+    },
+    {
+     "text": "die Zuckerwürfel",
+     "heard": "die Zuckerwürfel.",
+     "score": 1.0
+    },
+    {
+     "text": "die Stiftebecher",
+     "heard": "die Stiftebecher.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 1.0,
+   "available": 3145
+  },
+  "M4": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 25.0,
+   "median_pitch_hz": 100.7,
+   "asr": [
+    {
+     "text": "der Stiftebecher",
+     "heard": "der Stiftebecher.",
+     "score": 1.0
+    },
+    {
+     "text": "die Fischkonserven",
+     "heard": "die Fischkonserven.",
+     "score": 1.0
+    },
+    {
+     "text": "die Wand",
+     "heard": "die Wand",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 1.0,
+   "available": 3145
+  },
+  "M5": {
+   "rate": 44100,
+   "rendered": 27,
+   "seconds": 25.4,
+   "median_pitch_hz": 81.2,
+   "asr": [
+    {
+     "text": "die Wand",
+     "heard": "Die Wand.",
+     "score": 1.0
+    },
+    {
+     "text": "die Stiftebecher",
+     "heard": "Die Stiftebecher.",
+     "score": 1.0
+    },
+    {
+     "text": "der Mülleimer",
+     "heard": "der Mülleimer.",
+     "score": 1.0
+    }
+   ],
+   "asr_mean": 1.0,
+   "available": 3145
+  }
+ },
+ "errors": [],
+ "package": "1.3.1",
+ "init_signature": "(self, model: 'str' = 'supertonic-3', model_dir: 'Optional[Union[Path, str]]' = None, auto_download: 'bool' = True, intra_op_num_threads: 'Optional[int]' = None, inter_op_num_threads: 'Optional[int]' = None)",
+ "init_used": {
+  "model": "supertonic-3",
+  "auto_download": true
+ },
+ "synthesize_signature": "(text: 'str', voice_style: 'Style', total_steps: 'int' = 8, speed: 'float' = 1.05, max_chunk_length: 'Optional[int]' = None, silence_duration: 'float' = 0.3, lang: 'Optional[str]' = None, verbose: 'bool' = False) -> 'tuple[np.ndarray, np.ndarray]'",
+ "ready_voices": [
+  "F1",
+  "F2",
+  "F3",
+  "F4",
+  "F5",
+  "M1",
+  "M2",
+  "M3",
+  "M4",
+  "M5"
+ ],
+ "finished": "2026-10-22 11:06 UTC"
+}

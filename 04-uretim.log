@@ -1,0 +1,27 @@
+3145 texts, 270 clips to render
+[0;93m2026-10-22 10:59:40.492651104 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Fetching 26 files:   0%|          | 0/26 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 26 files:   4%|▍         | 1/26 [00:00<00:03,  8.01it/s]Fetching 26 files:  19%|█▉        | 5/26 [00:00<00:00, 23.03it/s]Fetching 26 files:  31%|███       | 8/26 [00:00<00:02,  8.80it/s]Fetching 26 files:  46%|████▌     | 12/26 [00:00<00:01, 12.94it/s]Fetching 26 files:  65%|██████▌   | 17/26 [00:01<00:00, 18.46it/s]Fetching 26 files:  88%|████████▊ | 23/26 [00:01<00:00, 25.19it/s]Fetching 26 files: 100%|██████████| 26/26 [00:02<00:00, 10.22it/s]
+F1: 1/27
+F2: 1/27
+F3: 1/27
+F4: 1/27
+F5: 1/27
+M1: 1/27
+M2: 1/27
+M3: 1/27
+M4: 1/27
+M5: 1/27
+{"started": "2026-10-22 10:59 UTC", "settings": "supertonic3-de-speed0.92-steps10-v1", "texts": 3145, "errors": [], "package": "1.3.1", "init_signature": "(self, model: 'str' = 'supertonic-3', model_dir: 'Optional[Union[Path, str]]' = None, auto_download: 'bool' = True, intra_op_num_threads: 'Optional[int]' = None, inter_op_num_threads: 'Optional[int]' = None)", "init_used": {"model": "supertonic-3", "auto_download": true}, "synthesize_signature": "(text: 'str', voice_style: 'Style', total_steps: 'int' = 8, speed: 'float' = 1.05, max_chunk_length: 'Optional[int]' = None, silence_duration: 'float' = 0.3, lang: 'Optional[str]' = None, verbose: 'bool' = False) -> 'tuple[np.ndarray, np.ndarray]'", "ready_voices": ["F1", "F2", "F3", "F4", "F5", "M1", "M2", "M3", "M4", "M5"], "finished": "2026-10-22 11:06 UTC", "more": false}
+F1 {"rate": 44100, "rendered": 27, "seconds": 34.4, "median_pitch_hz": 164.6, "asr_mean": 0.963, "available": 3145}
+F2 {"rate": 44100, "rendered": 27, "seconds": 33.6, "median_pitch_hz": 184.5, "asr_mean": 1.0, "available": 3145}
+F3 {"rate": 44100, "rendered": 27, "seconds": 34.3, "median_pitch_hz": 157.5, "asr_mean": 0.963, "available": 3145}
+F4 {"rate": 44100, "rendered": 27, "seconds": 33.1, "median_pitch_hz": 175.7, "asr_mean": 0.96, "available": 3145}
+F5 {"rate": 44100, "rendered": 27, "seconds": 33.3, "median_pitch_hz": 155.3, "asr_mean": 0.972, "available": 3145}
+M1 {"rate": 44100, "rendered": 27, "seconds": 33.9, "median_pitch_hz": 96.1, "asr_mean": 1.0, "available": 3145}
+M2 {"rate": 44100, "rendered": 27, "seconds": 33.4, "median_pitch_hz": 92.9, "asr_mean": 0.914, "available": 3145}
+M3 {"rate": 44100, "rendered": 27, "seconds": 31.4, "median_pitch_hz": 88.4, "asr_mean": 1.0, "available": 3145}
+M4 {"rate": 44100, "rendered": 27, "seconds": 25.0, "median_pitch_hz": 100.7, "asr_mean": 1.0, "available": 3145}
+M5 {"rate": 44100, "rendered": 27, "seconds": 25.4, "median_pitch_hz": 81.2, "asr_mean": 1.0, "available": 3145}
+Sesler güncellendi (531 değişiklik); yayın başlatılıyor.
+https://github.com/Krycskn05/goligo/actions/runs/39768130072
